@@ -1,5 +1,6 @@
 # cis165-lab3
-
+# how to run
+To run `diamond` and `game_time.cpp`, download the files from the repository to your computer. Then, using onlinegdb.com, click on the "Upload File" at the top left of the programming window, and upload the file you downloaded. Set the language using the dropdown to C++ 17. Repeat for the other program you downloaded.
 # tests
 ## diamond:
 test run 1:  
